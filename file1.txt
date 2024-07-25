@@ -1,2 +1,3 @@
 Hi Greens!!!
 Welcome to GIT Day 1 Session !!!!
+Adding DevOps CICD
